@@ -1,5 +1,7 @@
 <?php
 
+include __DIR__.'/vendor/autoload.php';
+
 use SerhiiMe\Typos\TyposGenerator;
 use SerhiiMe\Typos\Storage\ArrayTyposStorage;
 use SerhiiMe\Typos\Keyboard\EnglishKeyboard;

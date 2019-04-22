@@ -1,0 +1,6 @@
+#PHP Storm
+/.idea/
+
+composer.lock
+composer.phar
+/vendor/
