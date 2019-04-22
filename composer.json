@@ -1,0 +1,24 @@
+{
+  "name": "serhiime/typos-generator",
+  "description": "Generator of typos based on https://github.com/lequer/TyposGenerator",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/serhiime/typos-generator",
+  "keywords": ["typos","typos-generator"],
+  "authors": [
+    {
+      "name": "Serhii Nekhaienko",
+      "email": "serhii.nekhaienko@gmail.com",
+      "homepage": "http://serhii.work",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": { "SerhiiMe\\Typos\\": "src/" }
+  }
+}
