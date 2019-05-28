@@ -1,10 +1,9 @@
 Generator of typos based on https://github.com/lequer/TyposGenerator
-[Live demo](http://detector.endorphin-studio.ru/demo/)
 
 ## Code Status
-[![Latest Stable Version](https://poser.pugx.org/serhiime/typos-generator/v/stable)](https://packagist.org/packages/endorphin-studio/browser-detector)
-[![Total Downloads](https://poser.pugx.org/serhiime/typos-generator/downloads)](https://packagist.org/packages/endorphin-studio/browser-detector)
-[![License](https://poser.pugx.org/serhiime/typos-generator/license)](https://packagist.org/packages/endorphin-studio/browser-detector)
+[![Latest Stable Version](https://poser.pugx.org/serhiime/typos-generator/v/stable)](https://packagist.org/packages/serhiime/typos-generator)
+[![Total Downloads](https://poser.pugx.org/serhiime/typos-generator/downloads)](https://packagist.org/packages/serhiime/typos-generator)
+[![License](https://poser.pugx.org/serhiime/typos-generator/license)](https://packagist.org/packages/serhiime/typos-generator)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/serhiime/typos-generator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/serhiime/typos-generator/?branch=master)
 
 ## About
